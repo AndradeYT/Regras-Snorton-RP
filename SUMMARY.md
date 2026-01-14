@@ -3,7 +3,6 @@
 * [Introdução](README.md)
 
 * [Regras Gerais](regras-gerais.md)
-* [Conceitos de Roleplay](conceitos-rp.md)
 
 * [Ações e Combate](acoes-gerais.md)
   * [Assaltos](assaltos.md)
