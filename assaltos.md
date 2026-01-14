@@ -1,11 +1,18 @@
-# Assaltos
-
-## Assalto de Rua
-- Mín. 6 policiais
-- Máx. 2 bandidos
-- Voz de assalto obrigatória
-
-## Caixa Eletrônico
-- Máx. 2 bandidos
-- Sem armas de fogo
-- Foco total em fuga
+# ASSALTO DE RUA
+- Assaltos só são permitidos das 16:00 às 22:30
+- Para que possa ser iniciado um assalto a alguém é necessário que tenham no mínimo 6 policiais em patrulhamento.
+- É permitido iniciar uma ação de assalto sozinho.
+- Proibido iniciar uma ação de assalto com mais de 2 bandidos assaltando em conjunto seja no mesmo veículo ou em veículos diferentes.( Máximo 2 bandidos de QRR, totalizando 4 bandidos na ação ) 
+- Caso a polícia se envolva na ação é permitido QRR sem limite (Para ambos os lados)
+- Caso o assalto se inicie em movimento, a vítima pode iniciar fuga e/ou reagir ao assalto
+- Não é permitido assaltar ninguém em trabalhos legais, salvo se a pessoa não estiver portando o veículo identificando que o mesmo está realizando aquela função de tal emprego legal. 
+- É proibido matar a vítima caso a mesma esteja colaborando com o assalto.
+- É totalmente proibido assaltar pessoas em lojas de roupas, salões de beleza e em áreas seguras.
+- Proibido furtos de veículos sem o mínimo necessário de policiais em patrulhamento. O furto é proibido nas áreas seguras.
+- Em ação de rua, sempre deve ser fechado o perímetro. Assim que passar 2 minutos sem nenhum disparo por parte dos bandidos, o perímetro pode ser reaberto e os policiais podem lootear os corpos dos bandidos, caso haja mais disparos, o tempo de 2 minutos deve ser reiniciado para a abertura do perímetro.
+- Após a polícia fechar o perímetro do local “bandidos” que passar pela 2 vez no local será aplicado disparos no pneu do carro, se você não estiver envolvido na ação vai embora, se você voltar com seu veículo para o local a polícia vai liberar CÓDIGO 5 em você, tenha mais um “BOM SENSO” se caso a polícia aplicar no pneu do carro e vocês não estiver na ação vai embora “ TENHA O BOM SENSO “ se voltar a policia vai dá a entender que você está prestando o ”QRR”.
+- Proibido Fazer Assalto em carros separados, ou seja 2 bandidos somente em 1 carro.
+- Proibido roubar acessórios.
+- Proibido roubar em qualquer cracolândia.
+- Se a vítima estiver em um veículo de trabalho logo é proibido roubar a mesma.
+- Obrigatório da voz de assalto na vítima antes de qualquer outra coisa.
