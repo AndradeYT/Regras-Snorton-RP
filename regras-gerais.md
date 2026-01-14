@@ -126,7 +126,5 @@ OOC significa **“Out of Character” (fora do personagem)**.
 
 ---
 
-{% hint style="warning" %}
 O conhecimento e cumprimento destas regras básicas de Roleplay é **obrigatório**.  
 O desconhecimento das regras não isenta o jogador de punições.
-{% endhint %}
