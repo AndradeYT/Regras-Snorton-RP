@@ -1,0 +1,42 @@
+# GRUPOS POLICIAIS
+- Mínimo de 2 policiais para iniciar uma patrulha.
+- Utilização do Código Q em todas as situações possíveis.
+- Se você morrer, não pode passar mais nenhuma informação no discord/Rádio e deve esquecer todo o ocorrido.
+- Ao abordar um civil que cometeu um crime, o policial é obrigado a dar voz de prisão antes de levá-lo para delegacia.
+- Quando estiver levando o meliante para delegacia, sempre avisar: "o senhor tem o direito de permanecer calado e tudo que disser, poderá e será usado contra o senhor no tribunal".
+- Só ficar no rádio da Polícia (RÁDIO COMUNICADOR) quem estiver patrulhando/entrando, (Punições para AFK / CIVIL).
+- RolePlay (RP) Sempre fala que o cidadão tá algemado, que retirou o celular/armas dele, que a cela está trancada, que você está revistando os bolsos, pedindo RG, pedindo carteira de motorista.
+- Policial disfarçado apenas com a autorização (SOMENTE COM PERM).
+- Proibido alterar viatura na Oficina.
+- É proibido estar com equipamento militares enquanto está fora de serviço.
+- É proibido cometer crimes quando estiver fora de serviço.
+- Sempre seguir as leis a partir do Código Penal. A multa pode ser aplicada no local da abordagem.
+- A rádio da polícia militar (CENTRAL) não é para conversar besteira. Só pode ser usado para pedir reforço ou para reportar situações aos oficiais superiores.
+- A Polícia não pode ir em campos de processamento de drogas.
+- Estando fardado ou como civil, não é permitido efetuar crimes.
+- As abordagens podem ser completadas no DP (em casos de suspeitas de resgate).
+- Em uma perseguição, o oficial deve tentar ao máximo fazer o veículo do suspeito se chocar. Atirar em um carro para quebrá-lo é covardia, é permitido acertar os pneus. (se o suspeito sacar uma arma, o oficial tem a permissão de abrir fogo).
+- Apenas atire em motos se tiver certeza que pegará no pneu, e em último caso.
+- Mesmo uns tendo patentes maiores que outros, o respeito é o mesmo, portanto respeite a todos, principalmente seus superiores, porque querendo ou não, eles têm mais experiência que você. 
+- É proibido julgar alguém pela (Roupa/Carro) que ela está.
+- A utilização da arma de fogo só é liberada em último caso.
+- Mesmo você sendo um policial, o respeito mantém, por isso, evite abordagens truculentas.
+- Para puxar a "ROCAM" tem que ter 2 policiais Um em cada moto (Mínimo).
+- Caso a administração perceba uma ausência da unidade significativa resultará em punição. (EXPULSÃO).
+- Proibido atirar de taser quando o indivíduo estiver na água.
+- Toda comunicação será por meio de rádio comunicador ou voice local.
+- Só entre em serviço se tiver certeza que vai começar o patrulhamento naquele momento, Farm é totalmente proibido (Sujeito a ban/prisão staff).
+- Proibido "camperar" os bairros das facções, sujeito a 1 advertência para a unidade.
+- O cuidado com as viaturas é obrigatório, sempre lembrar de conserta e coloca gasolina se for o caso antes de guardá-la.
+- Independente de qualquer situação o amor a vida deve sempre vir primeiro.
+- Somente é permitido a entrada em propriedades privadas com a emissão de um mandado ou caso os mesmos estejam em flagrante delito.
+- Os policiais sempre devem se manter calmos e tratar com respeito todos os cidadãos e nunca utilizar a força como primeira opção.
+- Proibido da taser em pessoas em CARROS.
+- Proibido prender alguém algemado.
+- Agora antes de dar taser em alguém deve ter uma voz de abordagem.
+- A unidade da ROCAM está proibida de entrar em QG de facção sem no mínimo 2 VTR para ajudar.
+- Toda e qualquer rebelião/greve seja qual for o motivo é totalmente proibido a possibilidade de rebaixamento/exoneração da unidade.
+- O ato de dar opinião sobre o órgão polícia militar, vocês devem ter cuidado se sua opinião denegrir o órgão ou algum membro do comando você pode e vai ser rebaixado/exonerado.
+- Caso o meliante esteja com a vida baixa (Desanimado) os policiais devem levar o preso no hospital para ser tratado e em seguida ser preso.
+- Só é permitido ter um personagem em uma unidade do BPM, os outros personagens da conta podem ser do crime ou ser um cidadão comum (Lembranças de um personagem não pode ser levada para o outro)
+- Proibido comunicação via discord, use o rádio comunicador.
