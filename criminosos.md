@@ -1,0 +1,12 @@
+# GRUPOS CRIMINOSOS
+- Todo grupo ilegal oficial deve ter uma gerencia de até 3 pessoas
+- Matar moradores sem motivo apenas por sede de sangue está proibido, saiba desenvolver um bom ROLEPLAY.
+- Está proibido deixar de vender os produtos do grupo e/ou permitir que outra família tome o monopólio de determinado produto na cidade.
+- Proibido membros infiltrados seja de outra família ou mesmo policiais.
+- O uso do rádio comunicador é obrigatório em qualquer ação.
+- Em casos que a gerência do grupo esteja atrasando o mesmo, a expulsão da gerência será de imediato sem aviso prévio. 
+- Após um membro ser retirado do grupo ou sair por conta própria, o mesmo não deve se lembrar de nada relacionado ao grupo, o “PD” no roleplay será feito apenas como um ato simbólico. 
+- Proibido aliança entre facções oficiais (Contrato sobre produtos e valores menores está permitido).
+- Representantes do crime não podem fazer parte da gerência de grupos em outras cidades.
+- Só é permitido ter um personagem em facção oficial, os outros personagens da conta podem ser do governo ou ser um cidadão comum (Lembranças de um personagem não pode ser levada para o outro)
+- Proibido comunicação via discord, use o rádio comunicador.
