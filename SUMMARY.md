@@ -4,7 +4,7 @@
 
 * [Conceitos de Roleplay](conceitos-rp.md)
    * [Regras Gerais](regras-gerais.md)
-   * [Areas Seguras](assaltos.md)
+   * [Areas Seguras](areas-seguras.md)
    * [Guerra entre Facções](guerra.md)
 
 * [Ações e Combate](acoes-gerais.md)
